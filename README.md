@@ -9,8 +9,10 @@ When using the data, please cite Kurdish-BLARK and this repository.
 
 Please cite the following artilce when you use these datasets:
 
+Harvard:
+```
 Hassani, H., 2021. Can Linguistic Distance help Language Classification? Assessing Hawrami-Zaza and Kurmanji-Sorani. arXiv preprint arXiv:2110.14398.
-
+```
 bibtex:
 ```
 @article{hassani2021can,
