@@ -6,5 +6,15 @@ The book of abstracts could be found at https://static.uni-graz.at/fileadmin/ver
 For now, the Zazaki and Hawrami datasets are available. Datasets of Sorani and Kuramnji will be added later.
 The datasets are Swadesh lists (207-entry) for the mentioned Kurdish dialects.
 When using the data, please cite Kurdish-BLARK and this repository.
-A paper is planned to be published in which case the corresponding citation will be mentioned here to be used in case of using the data.
-More detail about the data and extra information will also be added later.
+
+Please cite the following artilce when you use these datasets:
+
+Hassani, H., 2021. Can Linguistic Distance help Language Classification? Assessing Hawrami-Zaza and Kurmanji-Sorani. arXiv preprint arXiv:2110.14398.
+
+bibtex:
+@article{hassani2021can,
+  title={Can Linguistic Distance help Language Classification? Assessing Hawrami-Zaza and Kurmanji-Sorani},
+  author={Hassani, Hossein},
+  journal={arXiv preprint arXiv:2110.14398},
+  year={2021}
+}
