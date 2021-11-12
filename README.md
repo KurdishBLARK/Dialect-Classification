@@ -12,9 +12,11 @@ Please cite the following artilce when you use these datasets:
 Hassani, H., 2021. Can Linguistic Distance help Language Classification? Assessing Hawrami-Zaza and Kurmanji-Sorani. arXiv preprint arXiv:2110.14398.
 
 bibtex:
+```
 @article{hassani2021can,
   title={Can Linguistic Distance help Language Classification? Assessing Hawrami-Zaza and Kurmanji-Sorani},
   author={Hassani, Hossein},
   journal={arXiv preprint arXiv:2110.14398},
   year={2021}
 }
+```
